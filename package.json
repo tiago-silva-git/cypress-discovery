@@ -1,0 +1,18 @@
+{
+  "name": "cypress-curso",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Tiago Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "save-dev": "^0.0.1-security"
+  }
+}
